@@ -1,4 +1,4 @@
-# PapersAndCodes
+# Papers & Codes
 
 ## [Pan's Group](https://profiles.uchicago.edu/profiles/display/38666)
 -- Simultaneous activity and attenuation estimation in TOF-PET with TV-constrained nonconvex optimization
