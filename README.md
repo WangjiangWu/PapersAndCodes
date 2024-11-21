@@ -2,6 +2,7 @@
 
 ## Journals
 -- [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis)
+-- [IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
 
 ## [Pan's Group](https://profiles.uchicago.edu/profiles/display/38666)
 -- Simultaneous activity and attenuation estimation in TOF-PET with TV-constrained nonconvex optimization
